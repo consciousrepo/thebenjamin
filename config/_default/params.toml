@@ -6,12 +6,8 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 colorScheme = "congo"
- darkMode = "true"
-#darkToggle = false
-# logo = "assets/img/logo.jpg"
- description = "Disciple of Experience"
-# mainSections = ["section1", "section2"]
-# robots = ""
+darkMode = "true"
+description = "Disciple of Experience"
 
 
 [homepage]
@@ -31,7 +27,6 @@ colorScheme = "congo"
   showPagination = true
   showTableOfContents = true
   showReadingTime = true
-  # sharingLinks = ["facebook", "twitter", "reddit", "linkedin", "email"]
 
 [list]
   showBreadcrumbs = false
@@ -44,13 +39,3 @@ colorScheme = "congo"
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
-
-[fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
-
-[verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""
