@@ -60,7 +60,8 @@ See an extended list [here](https://www.google.com/maps/d/u/1/edit?mid=1iq8ZkZG8
 ### Coffee Shops
 - Omen Coffee 
 - Northwest Coffee
-- Quarrelsome Coffee
+- Comet on Shaw
+- Kaldi's on Carondelet
 - Coma Coffee
 
 
